@@ -1,4 +1,4 @@
-0
+For step 11. Edit and commit at least one of the files in the master branch.
 1
 2
 3
